@@ -27,4 +27,4 @@
 
 ### WEBSITE LINK
 
-[Visit Link](https://justice-landing.netlify.app/)
+[Visit Link](https://justice-landing-01.netlify.app/)
